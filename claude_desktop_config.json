@@ -1,0 +1,16 @@
+{
+	  "mcpServers": {
+    "fbdi-agent": {
+      "command": "C://Users//Prasanth//.conda//envs//my-env//python.exe",
+      "args": [
+        "C:\\Users\\Prasanth\\Downloads\\mcp_server.py"
+      ]
+    }
+  },
+  "preferences": {
+    "coworkWebSearchEnabled": true,
+    "coworkScheduledTasksEnabled": false,
+    "ccdScheduledTasksEnabled": false,
+    "sidebarMode": "chat"
+  }
+}
